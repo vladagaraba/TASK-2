@@ -1,4 +1,4 @@
-package com.company;
+package ru.vsu.cs.garaba;
 
 import java.util.Scanner;
 
